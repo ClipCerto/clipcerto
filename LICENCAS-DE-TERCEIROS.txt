@@ -1,0 +1,45 @@
+ClipCerto - programas de terceiros incluidos / third-party software included
+=============================================================================
+
+O ClipCerto inclui os programas de codigo aberto abaixo. Cada um continua regido pela
+sua propria licenca. Os textos completos das licencas estao nos enderecos indicados.
+
+ClipCerto bundles the open-source software below. Each one remains under its own
+license. Full license texts are available at the addresses listed.
+
+Programas separados, chamados pelo ClipCerto / separate programs run by ClipCerto
+-----------------------------------------------------------------------------
+FFmpeg (executavel ffmpeg, distribuido pelo pacote imageio-ffmpeg)
+    Licenca: GNU GPL / LGPL, conforme a compilacao.
+    Codigo-fonte e licenca: https://ffmpeg.org  |  https://github.com/imageio/imageio-ffmpeg
+Node.js (node.exe)
+    Licenca: MIT e licencas dos componentes incluidos.  https://nodejs.org
+
+Bibliotecas / libraries
+-----------------------------------------------------------------------------
+Python                   PSF License                 https://www.python.org
+yt-dlp, yt-dlp-ejs       Unlicense                   https://github.com/yt-dlp/yt-dlp
+faster-whisper           MIT                         https://github.com/SYSTRAN/faster-whisper
+CTranslate2              MIT                         https://github.com/OpenNMT/CTranslate2
+ONNX Runtime             MIT                         https://github.com/microsoft/onnxruntime
+PyAV                     BSD-3-Clause                https://github.com/PyAV-Org/PyAV
+OpenCV                   Apache-2.0                  https://opencv.org
+NumPy                    BSD-3-Clause                https://numpy.org
+Pillow                   MIT-CMU                     https://python-pillow.org
+tokenizers               Apache-2.0                  https://github.com/huggingface/tokenizers
+huggingface_hub          Apache-2.0                  https://github.com/huggingface/huggingface_hub
+FastAPI, Starlette       MIT, BSD-3-Clause           https://fastapi.tiangolo.com
+Uvicorn                  BSD-3-Clause                https://www.uvicorn.org
+Jinja2                   BSD-3-Clause                https://palletsprojects.com/p/jinja
+Pydantic                 MIT                         https://docs.pydantic.dev
+HTTPX                    BSD-3-Clause                https://www.python-httpx.org
+truststore               MIT                         https://github.com/sethmlarson/truststore
+pystray                  LGPL-3.0                    https://github.com/moses-palmer/pystray
+PyInstaller (bootloader) GPL-2.0 com excecao para programas empacotados  https://pyinstaller.org
+
+Modelos de transcricao (baixados no primeiro uso) / speech models (downloaded on first use)
+-----------------------------------------------------------------------------
+Whisper (OpenAI), convertido por Systran para o faster-whisper.  Licenca: MIT.
+    https://huggingface.co/Systran
+
+Duvidas / questions: https://clipcerto.pages.dev/contato
