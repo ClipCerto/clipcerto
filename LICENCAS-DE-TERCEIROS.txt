@@ -37,6 +37,11 @@ truststore               MIT                         https://github.com/sethmlar
 pystray                  LGPL-3.0                    https://github.com/moses-palmer/pystray
 PyInstaller (bootloader) GPL-2.0 com excecao para programas empacotados  https://pyinstaller.org
 
+Modelo de deteccao de rosto (incluido) / face detection model (bundled)
+-----------------------------------------------------------------------------
+YuNet (Shiqi Yu), do OpenCV Zoo.  Licenca: MIT (texto em app/modelos).
+    https://github.com/opencv/opencv_zoo/tree/main/models/face_detection_yunet
+
 Modelos de transcricao (baixados no primeiro uso) / speech models (downloaded on first use)
 -----------------------------------------------------------------------------
 Whisper (OpenAI), convertido por Systran para o faster-whisper.  Licenca: MIT.
